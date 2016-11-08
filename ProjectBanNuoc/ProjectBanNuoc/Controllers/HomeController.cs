@@ -11,6 +11,7 @@ namespace ProjectBanNuoc.Controllers
         public ActionResult Index()
         {
             return View();
+            int d;
         }
 
         public ActionResult About()
