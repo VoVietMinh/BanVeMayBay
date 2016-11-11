@@ -22,6 +22,7 @@ namespace ProjectBanNuoc.Controllers
         {
             int a;
             int c;
+            int z;
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )

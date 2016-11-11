@@ -12,6 +12,7 @@ namespace ProjectBanNuoc.Controllers
         {
             return View();
             int d;
+            int z;
         }
 
         public ActionResult About()
